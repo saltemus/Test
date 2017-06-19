@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <css/>
+        <id>reports</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description>report</short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-13 21:53:07</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>019428160f133200619d0cbce1050e2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>reports</sys_name>
+        <sys_package display_value="MyApp" source="x_7791_myapp">84d5f9860f133200619d0cbce1050e6f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MyApp">84d5f9860f133200619d0cbce1050e6f</sys_scope>
+        <sys_update_name>sp_page_019428160f133200619d0cbce1050e2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-13 21:53:07</sys_updated_on>
+        <title>Reports</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=019428160f133200619d0cbce1050e2d"/>
+</record_update>
